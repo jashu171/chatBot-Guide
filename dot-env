@@ -1,0 +1,7 @@
+# .env
+GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY_HERE
+GOOGLE_MODEL=gemini-2.0-flash
+GOOGLE_OPENAI_COMPAT_BASE_URL=https://generativelanguage.googleapis.com/v1beta/openai
+SYSTEM_PROMPT=You are a concise, helpful chatbot for BotCampus.ai. Answer briefly, use plain English, and include code blocks when helpful.
+TEMPERATURE=0.3
+MAX_TOKENS=1024
